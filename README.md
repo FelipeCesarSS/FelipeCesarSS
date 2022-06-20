@@ -5,15 +5,13 @@
 
 <h3 align="left">Connect comigo:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-c%c3%a9sar-91018714a/ " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-c%c3%a9sar-91018714a/" height="30" width="40" /></a> <a href="https://instagram.com/https://www.instagram.com/_felipecesar_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_felipecesar_/" height="30" width="40" /></a> <a href="https://discord.gg/FelipeCesarSS#3348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FelipeCesarSS#3348" height="30" width ="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-c%c3%a9sar-91018714a/ " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-c%c3%a9sar-91018714a/" height="30" width="40" /></a> <a href="https://instagram.com/https://www.instagram.com/_felipecesar_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_felipecesar_/" height="30" width="40" /></a> <a href="https://discord.gg/FelipeCesarSS#3348" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FelipeCesarSS#3348" height="30" width ="40" /></a>
 </p>
 
 <h3 align="left">Statistic:</h3>
 <p align="left">
 <p>
-<img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecesarss&show_icons=true&locale=en&layout=compact" alt="felipecesarss" color="black" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecesarss&show_icons=true&locale=en" alt="felipecesarss" color="black" /></p>
+<img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecesarss&show_icons=true&locale=en&layout=compact" alt="felipecesarss" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecesarss&show_icons=true&locale=en" alt="felipecesarss" color="black" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -11,7 +11,7 @@
 <h3 align="left">Statistic:</h3>
 <p align="left">
 <p>
-<img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecesarss&show_icons=true&locale=en&layout=compact&?theme=dark" alt="felipecesarss" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecesarss&show_icons=true&locale=en&?theme=dark" alt="felipecesarss"/></p>
+<img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecesarss&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipecesarss" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecesarss&show_icons=true&locale=en&theme=dark" alt="felipecesarss"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
